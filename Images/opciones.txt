@@ -1,0 +1,17 @@
+-vec = patos
+-img = 001co05
+-bg = 
+-num = 857
+-bgcolor = 0
+-bgthresh
+-inv
+-randinv
+-maxidev
+-maxxangle
+-maxyangle
+-maxzangle
+-show
+-w = 36
+-h = 36
+-pngoutput
+
